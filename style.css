@@ -1,0 +1,27 @@
+.box1{
+    background-color:hsl(230, 30%, 45%);
+    height: 200px;
+    width: 200px;
+    float: left;
+}
+.box2 {
+    background-color: rgb(17, 17, 164);
+    height: 200px;
+    width: 200px;
+    float: left;
+ }
+
+ .box3{
+    background-color: rgba(165, 100, 255, 0.667);
+    height: 200px;
+    width: 200px;
+    float: left;
+
+}
+
+.box4{
+    background-color: rgba(255, 102, 0, 0.886);
+    height: 200px;
+    width: 200px;
+    float: left;
+}
